@@ -1,0 +1,24 @@
+import  java.util.*;
+public class palindrome
+{
+     public static void main(String args[])
+   {
+     String original, reverse = ""; // Objects of String class
+      Scanner in = new Scanner(System.in);          // use for user to enter the input
+     
+      System.out.println("enter a word");
+      original = in.nextLine();                     // enter original word
+     
+      int length = original.length();
+     
+      for (int i = length - 1; i >= 0; i--){
+         reverse = reverse + original.charAt(i);    // reverse the orignal word
+        }  
+      if (original.equals(reverse)){
+         System.out.println("true");}               // if the reverse word is same with original word
+      else{
+         System.out.println("false");}              // if the reverse word is not same with original word
+        
+         
+   }
+}
