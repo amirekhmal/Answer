@@ -1,0 +1,26 @@
+•	Front-end language
+
+o	The platform for online restaurant reservation is website and the front-end language that I choose are HTML and JavaScript .
+
+o	The reason why use HTML is most of the browsers  around the world support HTML rather than other web programming 
+  as long as we take care to optimize the website compatibility. 
+
+o	Then, reason why  use JavaScript is it has user interface interactivity such as form validation for 
+  user to input their details for reservation, it can give alert by using alert box to warning user about 
+  missing or invalid fields in form.Furthermore, JavaScript also can use in scheduling which is for make 
+  a reservation either it is available or not in that date and time.
+
+•	Back-end language
+
+o	For back-end language, I choose PHP because of it easy to manage and store the data into database 
+  for staff to view. For example, we can use PHP to load reservation details from database to staff page or 
+  website to know at what time and date that book by their customer. Other than that, it can use to fill a form 
+  such as feedback that can be combine with HTML language to make it easier to load and store to database.
+
+•	Database management system
+
+o	For database management system, I choose MySQL because of it free and open-source database management system and 
+  also easy to set up in Linux, Unix and Windows. MySQL also offer security features that ensure data protection and 
+  its also provides mechanisms for ensure the authorizes users have entry to the database. For example, only manager or senior staff 
+  can access to see the details of their customer and the reservations. Furthermore, MySQL offers main memory tables for fast 
+  response time which is it deliver high-speed disk table rather than standard disk table.
